@@ -51,7 +51,9 @@ To further reduce YouTube's ability to detect adblockers and trigger auto-scroll
 youtube.com##+js(nano-stb, resolve)
 youtube.com##+js(nano-sib)
 ```
-
+Also allow tempormonkey to access the URLs and enable developer option for tempermonkey heres how:
+https://www.tampermonkey.net/faq.php?locale=en#Q209
+https://www.tampermonkey.net/faq.php?locale=en#Q204
 
 🧠 How It Works
 The script uses:
