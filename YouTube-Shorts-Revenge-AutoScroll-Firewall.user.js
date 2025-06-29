@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         YouTube Shorts Auto-Scroll Killer (Final Lockdown)
+// @name         YouTube Shorts Auto-Scroll Killer (1.0)
 // @namespace    http://tampermonkey.net/
 // @version      5.0
 // @description  Stops YouTube Shorts from revenge auto-scrolling after adblock detection, by blocking navigation, scroll bursts, autoplay, and URL mutation completely.
-// @author       ChatGPT
+// @author       hulkpk
 // @match        https://www.youtube.com/shorts/*
 // @grant        none
 // ==/UserScript==
