@@ -48,11 +48,8 @@ To further reduce YouTube's ability to detect adblockers and trigger auto-scroll
 ```ini
 ||doubleclick.net^$third-party
 ||youtube.com/pagead/*$xmlhttprequest
-||youtube.com/pagead/lvz?$xhr
 youtube.com##+js(nano-stb, resolve)
 youtube.com##+js(nano-sib)
-youtube.com##.ytp-ad-module
-youtube.com###player-ads
 ```
 
 
